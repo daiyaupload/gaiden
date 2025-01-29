@@ -1,0 +1,17 @@
+{
+  "title": "Ace of the Diamond Act II Side Story: Teito vs Ugumori",
+  "description": "<manga description>",
+  "artist": "Terajima Yūji",
+  "author": "Terajima Yūji",
+  "cover": "https://files.catbox.moe/l5ziha.png",
+  "chapters": {
+    "4": {
+      "title": "The Spotlight",
+      "volume": "1",
+      "groups": {
+        "": "/proxy/api/catbox/chapter/z2woas"
+      },
+      "last_updated": "1738119801"
+    }
+  }
+}
