@@ -1,6 +1,6 @@
 {
   "title": "Ace of the Diamond Act II Side Story: Teito vs Ugumori",
-  "description": "<manga description>",
+  "description": "I want to pitch to that mitt, just one more time... When Eijun Sawamura was just fifteen, he met someone who changed the course of his life forever—the catcher Kazuya Miyuki. Now, he's said goodbye to family and friends to travel to Seido High, where he can test his baseball skills alongside some of the best in the nation!",
   "artist": "Terajima Yūji",
   "author": "Terajima Yūji",
   "cover": "https://files.catbox.moe/l5ziha.png",
@@ -12,6 +12,14 @@
         "": "/proxy/api/catbox/chapter/z2woas"
       },
       "last_updated": "1738119801"
+    },
+    "2": {
+      "title": "Walk on the Wild Side",
+      "volume": "1",
+      "last_updated": "1738120548",
+      "groups": {
+        "": "/proxy/api/catbox/chapter/v4vdog"
+      }
     }
   }
 }
