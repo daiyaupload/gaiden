@@ -20,6 +20,22 @@
       "groups": {
         "": "/proxy/api/catbox/chapter/v4vdog"
       }
+    },
+    "6": {
+      "title": "Teito, the Best there is",
+      "volume": "1",
+      "last_updated": "1739329557",
+      "groups": {
+        "": "/proxy/api/catbox/chapter/t0cntx"
+      }
+    },
+    "7": {
+      "title": "With a Smile",
+      "volume": "1",
+      "last_updated": "1739329622",
+      "groups": {
+        "": "/proxy/api/catbox/chapter/o7mc8f"
+      }
     }
   }
 }
